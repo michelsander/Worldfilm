@@ -1,0 +1,48 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "totvs_language_debug",
+			"request": "launch",
+			"name": "Depuração do idioma TOTVS",
+			"program": "${command:AskForProgramName}",
+			"cwb": "${workspaceFolder}",
+			"smartclientBin": "C:\\TOTVS 12\\Protheus\\bin\\smartclient_x64_broker_DEV\\smartclient.exe",
+			"isMultiSession": true,
+			"enableTableSync": true
+		}
+	],
+	"lastPrograms": [
+		{
+			"label": "U_FESPTESTE"
+		},
+		{
+			"label": "SIGAMDI"
+		},
+		{
+			"label": "SIGAFAT"
+		},
+		{
+			"label": "mpsdu"
+		},
+		{
+			"label": "SIGACFG"
+		},
+		{
+			"label": "SIGAEST"
+		},
+		{
+			"label": "U_FSBITMAP"
+		},
+		{
+			"label": "U_FTESTE"
+		},
+		{
+			"label": "U_FDEPURA"
+		},
+		{
+			"label": "SIGAPLS"
+		}
+	],
+	"lastProgramExecuted": "U_FDEPURA"
+}
